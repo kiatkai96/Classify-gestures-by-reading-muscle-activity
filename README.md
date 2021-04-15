@@ -1,1 +1,1 @@
-# kiatkai96-Classify-gestures-by-reading-muscle-activity
+# Classify gestures by reading muscle activity
